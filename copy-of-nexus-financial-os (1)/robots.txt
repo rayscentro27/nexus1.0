@@ -1,0 +1,8 @@
+
+User-agent: *
+Allow: /
+Disallow: /portal
+Disallow: /dashboard
+Disallow: /crm
+
+Sitemap: https://nexus-crm.vercel.app/sitemap.xml

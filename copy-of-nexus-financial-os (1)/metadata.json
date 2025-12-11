@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Nexus Financial OS",
+  "description": "The complete AI Operating System for business funding. Features CRM, Power Dialer, Marketing Automation, and Client Portal.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
